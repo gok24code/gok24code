@@ -1,17 +1,15 @@
-![MasterHead](https://github.com/gok24code/gok24code/blob/main/img/Github%20Banner.jpg)
-![](https://komarev.com/ghpvc/?username=gok24code&color=blue)
-<div align="center">
- <a href="https://github.com/gok24code">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Göktuğ+Toyguç+%e2%9c%a8;%f0%9f%93%9a+Computer+Engineer+%f0%9f%92%bb;Welcome+To+My+Github!+%f0%9f%91%80" alt="Typing SVG" />
- </a>
-</div>
+<h1 align="center">HI THERE! THIS IS ME:</h1>
+<hr>
 
-<img src="https://github.com/gok24code/gok24code/blob/main/img/EatSleepCodeRepeat.gif" alt="Coding" width=200 height=200 align="right">
+![](https://komarev.com/ghpvc/?username=gok24code&color=green)
+<br>
+<a href="https://github.com/gok24code"><img src="https://readme-typing-svg.demolab.com?font=Monospace&weight=900&letterSpacing=small&pause=1000&color=2AF700&center=false&vCenter=true&width=435&lines=Welcome+to+my+github!;You+can+find+me+here+easly.;Let+Inspect+my+repositories!;I+am+a+computer+engineer+from+T%C3%BCrkiye.;I+love+this+job!;Im+doing+this+job+from+8+years.;I+started+with+small+snake+game+in+javascript.;And+this+was+my+first+project.;When+i+done+it+i+was+just+10!;%C4%B0sn't+it+amazing!%3F;At+this+times+this+was+a+hobbie;But+now+i+want+translate+this+to+my+job." alt="Typing SVG" /></a>
 
-<br>
-<br>
+<hr>
+<img src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/EatSleepCodeRepeat.gif" alt="Coding" width=200 height=200 align="center">
+<hr>
 </h1>
-<h3 align="center">A passionate computer enginner from Türkiye.</h3>
+<h3 align="left">A passionate computer enginner from Türkiye.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gok24code&label=Profile%20views&color=0e75b6&style=flat" alt="gok24code" /> </p>
 
