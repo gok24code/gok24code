@@ -14,8 +14,6 @@
 </h1>
 <h3 align="left">A passionate computer enginner from Türkiye.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gok24code" alt="gok24code" /></a> </p>
-
 - 🔭 I’m currently working on **New body move analyzer python project**
 
 - 🌱 I’m currently learning **C++,Javascript and Thinking like an engineer.**
