@@ -7,7 +7,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Monospace&weight=900&letterSpacing=small&duration=7000&pause=1000&color=2AF700&width=435&lines=Welcome+to+my+github!;You+can+find+me+here+easily.;Let+Inspect+my+repositories!;I'm+a+computer+engineer+from+T%C3%BCrkiye.;I+love+this+job!;I'm+doing+this+job+from+8+years.;I+started+with+small+snake+game;And+this+was+my+first+project.;When+i+done+it%2C+i+was+just+10!;Isn't+it+amazing!%3F;At+this+times+this+was+a+hobbie;But+now+i+want+translate+this+to+my+job." alt="Typing SVG" /></a>
 
 <hr>
-<p style="font-style:italic;">"My problem may be not a problem to you but it was a problem in its origin."</p>
+<p style="font-style:italic;">"My problem may not be a problem for you, but it is a problem in itself."</p>
 <hr>
 <img src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/EatSleepCodeRepeat.gif" alt="Coding" width=200 height=200 align="center">
 <hr>
