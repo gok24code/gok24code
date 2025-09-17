@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, This is me!</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I+am+Göktuğ+Toyguç.;Welcome+to+my+github!;Inpect+my+engineering+journey.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/)](https://git.io/typing-svg)
+
+
+<h1 align="center" class="heading-element" dir="auto">
+  <a href="https://git.io/typing-svg" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/51d14ff4b77a158d3cfc5ceebdf202584dd9181d1a75178dd838c693002cd09a/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d2f3f6c696e65733d48692b5468657265212bf09f918b3b2b4d7973656c662b4b757368616c2b54616e6e61213b2663656e7465723d747275652673697a653d3330" data-canonical-src="https://readme-typing-svg.herokuapp.com/?lines=Hi+I+am+Göktuğ+Toyguç.;Welcome+to+my+github!;Inpect+my+engineering+journey.;&amp;center=true&amp;size=30" style="max-width: 100%;">
+  </a>
+</h1>
 <h3 align="center">A passionate computer enginner from Türkiye.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gok24code&label=Profile%20views&color=0e75b6&style=flat" alt="gok24code" /> </p>
