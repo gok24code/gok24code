@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Improve and develop myself with collaborations**
 
-- 👨‍💻 All of my projects are available at here but if you want more learn about me [gok24code.github.io](gok24code.github.io)
+- 👨‍💻 All of my projects are available at here but if you want more learn about me [gok24code.github.io](https://gok24code.github.io)
 
 - 📝 I regularly write articles on [https://medium.com/@goktugtoyguc](https://medium.com/@goktugtoyguc)
 
