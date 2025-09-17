@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Göktuğ Toyguç</h1>
+<h1 align="center">Hi 👋, This is me!</h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I+am+Göktuğ+Toyguç.;Welcome+to+my+github!;You+can+inpect+my+engineering+journey+in+here.)](https://git.io/typing-svg)
 <h3 align="center">A passionate computer enginner from Türkiye.</h3>
