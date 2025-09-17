@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@goktugtoyguc](https://medium.com/@goktugtoyguc)
 
-- 💬 Ask me about **gok_2.0 on instagram**
+- 💬 Ask me about me to **gok_2.0 on instagram**
 
 - 📫 How to reach me **noxonninen@gmail.com**
 
