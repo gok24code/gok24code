@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Göktuğ Toyguç</h1>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I+am+Göktuğ+Toyguç;Welcome+to+my+portfolio+github!)](https://git.io/typing-svg)
 <h3 align="center">A passionate computer enginner from Türkiye.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gok24code&label=Profile%20views&color=0e75b6&style=flat" alt="gok24code" /> </p>
