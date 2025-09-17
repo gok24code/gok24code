@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **New body move analyzer python project**
 
-- 🌱 I’m currently learning **C++,Javascript,Thinking like an engineer.**
+- 🌱 I’m currently learning **C++,Javascript and Thinking like an engineer.**
 
 - 👯 I’m looking to collaborate on **My game development project that named "Senzei" which is a samurai game.**
 
