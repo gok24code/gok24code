@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, This is me!</h1>
 
-<h1 align="center" class="heading-element" dir="auto">
+<h1 style="background-color🐦‍⬛" class="heading-element" dir="auto">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I+am+Göktuğ+Toyguç.;Welcome+to+my+github!;Inpect+my+engineering+journey.)](https://git.io/typing-svg)
 
