@@ -41,4 +41,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gok24code&show_icons=true&locale=en" alt="gok24code" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gok24code&" alt="gok24code" /></p>
+
