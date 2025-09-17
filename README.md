@@ -1,9 +1,15 @@
-<h1 align="center">Hi 👋, This is me!</h1>
+![MasterHead](https://github.com/gok24code/gok24code/blob/main/img/Github%20Banner.jpg)
+![](https://komarev.com/ghpvc/?username=gok24code&color=blue)
+<div align="center">
+ <a href="https://github.com/gok24code">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Göktuğ+Toyguç+%e2%9c%a8;%f0%9f%93%9a+Computer+Engineer+%f0%9f%92%bb;Welcome+To+My+Github!+%f0%9f%91%80" alt="Typing SVG" />
+ </a>
+</div>
 
-<h1 style="background-color🐦‍⬛" class="heading-element" dir="auto">
+<img src="https://github.com/gok24code/gok24code/blob/main/img/EatSleepCodeRepeat.gif" alt="Coding" width=200 height=200 align="right">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I+am+Göktuğ+Toyguç.;Welcome+to+my+github!;Inpect+my+engineering+journey.)](https://git.io/typing-svg)
-
+<br>
+<br>
 </h1>
 <h3 align="center">A passionate computer enginner from Türkiye.</h3>
 
