@@ -3,7 +3,8 @@
 
 ![](https://komarev.com/ghpvc/?username=gok24code&color=green)
 <br>
-<a href="https://github.com/gok24code"><img src="https://readme-typing-svg.demolab.com?font=Monospace&weight=900&letterSpacing=small&pause=1000&color=2AF700&center=false&vCenter=true&width=435&lines=Welcome+to+my+github!;You+can+find+me+here+easly.;Let+Inspect+my+repositories!;I+am+a+computer+engineer+from+T%C3%BCrkiye.;I+love+this+job!;Im+doing+this+job+from+8+years.;I+started+with+small+snake+game+in+javascript.;And+this+was+my+first+project.;When+i+done+it+i+was+just+10!;%C4%B0sn't+it+amazing!%3F;At+this+times+this+was+a+hobbie;But+now+i+want+translate+this+to+my+job." alt="Typing SVG" /></a>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Monospace&weight=900&letterSpacing=small&duration=7000&pause=1000&color=2AF700&width=435&lines=Welcome+to+my+github!;You+can+find+me+here+easily.;Let+Inspect+my+repositories!;I'm+a+computer+engineer+from+T%C3%BCrkiye.;I+love+this+job!;I'm+doing+this+job+from+8+years.;I+started+with+small+snake+game;And+this+was+my+first+project.;When+i+done+it%2C+i+was+just+10!;Isn't+it+amazing!%3F;At+this+times+this+was+a+hobbie;But+now+i+want+translate+this+to+my+job." alt="Typing SVG" /></a>
 
 <hr>
 <img src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/EatSleepCodeRepeat.gif" alt="Coding" width=200 height=200 align="center">
