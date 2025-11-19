@@ -13,7 +13,7 @@
 </h1>
 <h3 align="left">A passionate computer enginner from Türkiye.</h3>
 
-- 🔭 I’m currently working on **New body move analyzer python project**
+- 🔭 I’m currently working on **Python**
 
 - 🌱 I’m currently learning **C++,Javascript and Thinking like an engineer.**
 
