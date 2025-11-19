@@ -37,7 +37,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/gok_2.0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gok_2.0" height="30" width="40" /></a>
+<a href="https://instagram.com/gok2.py" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gok_2.0" height="30" width="40" /></a>
 <a href="https://medium.com/@goktugtoyguc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@goktugtoyguc" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/gök2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gök2" height="30" width="40" /></a>
 </p>
