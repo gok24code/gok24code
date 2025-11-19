@@ -9,7 +9,6 @@
 <hr>
 <p style="font-style:italic;">"My problem may not be a problem for you, but it is a problem in itself."</p>
 <hr>
-<img src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/EatSleepCodeRepeat.gif" alt="Coding" width=200 height=200 align="center">
 <hr>
 </h1>
 <h3 align="left">A passionate computer enginner from Türkiye.</h3>
