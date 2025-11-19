@@ -21,9 +21,9 @@
 
 - 🤝 I’m looking for help with **Improve and develop myself with collaborations**
 
-- 👨‍💻 All of my projects are available at here but if you want more learn about me [gok24code.github.io](https://gok24code.github.io)
+- 👨‍💻 All of my projects are available at here but if you want more learn about me [mywebsite](https://gok2.web.tr)
 
-- 📝 I regularly write articles on [https://medium.com/@goktugtoyguc](https://medium.com/@goktugtoyguc)
+- 📝 I often write articles on [https://medium.com/@goktugtoyguc](https://medium.com/@goktugtoyguc)
 
 - 💬 Ask me about me to **gok_2.0 on instagram**
 
