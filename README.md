@@ -39,7 +39,7 @@
 <p align="left">
 <a href="https://instagram.com/gok2.py" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gok_2.0" height="30" width="40" /></a>
 <a href="https://medium.com/@goktugtoyguc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@goktugtoyguc" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/gok24code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gök2" height="30" width="40" /></a>
+<a href="https://youtube.com/@gok24code?si=YO5enz_kzj4n3b9M" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gök2" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
