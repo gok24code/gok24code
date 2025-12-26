@@ -23,7 +23,7 @@
 
 - 🤝 I’m looking for help with **Improve and develop myself with collaborations**
 
-- 👨‍💻 All of my projects are available at here but if you want more learn about me [mywebsite](https://gok2.web.tr)
+- 👨‍💻 All of my projects are available at here but if you want more learn about me [mywebsite](https://gok24code.github.io)
 
 - 📝 I often write articles on [https://medium.com/@goktugtoyguc](https://medium.com/@goktugtoyguc)
 
