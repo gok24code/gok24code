@@ -12,10 +12,8 @@
 
 <hr>
 
-'''bash
-<p align="left">A passionate computer enginner from Türkiye.<br><br>    🔭 I’m currently working on Python<br><br>    🌱 I’m currently learning C++,Javascript and Thinking like an engineer.<br><br>    👯 I’m looking to collaborate on My game development project that named "Senzei" which is a samurai game.<br><br>    🤝 I’m looking for help with Improve and develop myself with collaborations<br><br>    👨‍💻 All of my projects are available at here but if you want more learn about me mywebsite<br><br>    📝 I often write articles on https://medium.com/@goktugtoyguc<br><br>    💬 Ask me about me to gok_2.0 on instagram<br><br>    📫 How to reach me noxonninen@gmail.com</p>
-'''
 
+<p align="left">A passionate computer enginner from Türkiye.<br><br>    🔭 I’m currently working on Python<br><br>    🌱 I’m currently learning C++,Javascript and Thinking like an engineer.<br><br>    👯 I’m looking to collaborate on My game development project that named "Senzei" which is a samurai game.<br><br>    🤝 I’m looking for help with Improve and develop myself with collaborations<br><br>    👨‍💻 All of my projects are available at here but if you want more learn about me mywebsite<br><br>    📝 I often write articles on https://medium.com/@goktugtoyguc<br><br>    💬 Ask me about me to gok_2.0 on instagram<br><br>    📫 How to reach me noxonninen@gmail.com</p>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
