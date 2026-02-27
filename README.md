@@ -164,11 +164,6 @@
 ###
 
 <br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gok24code&layout=compact&theme=dracula&hide_border=true&langs_count=6" height="150" alt="languages graph"  />
-</div>
-
 ###
 
 <picture>
