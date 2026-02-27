@@ -182,8 +182,6 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
   <a href="https://www.linkedin.com/in/g%C3%B6ktu%C4%9F-toygu%C3%A7-7a344425b/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="40" alt="linkedin logo"  />
