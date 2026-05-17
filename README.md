@@ -162,17 +162,6 @@
 ###
 
 <br clear="both">
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gok24code/gok24code/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gok24code/gok24code/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gok24code/gok24code/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<br clear="both">
 
 <div align="center">
   <img height="200" src="https://media.licdn.com/dms/image/v2/D4E35AQG1ZXdYh63Y3w/profile-framedphoto-shrink_400_400/B4EZqQuH9rKMAc-/0/1763364601952?e=1772762400&v=beta&t=PqSDEzoW64-QsRmb2et2M-ZFXg8amPjFZSA9akjyTlc"  />
