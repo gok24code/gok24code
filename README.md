@@ -61,6 +61,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="Neovim" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="3D Prototyping" />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/kicad" height="40" alt="KiCad" />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/freecad" height="40" alt="FreeCAD" />
 </p>
 
 <hr>
