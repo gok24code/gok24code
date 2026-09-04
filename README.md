@@ -66,11 +66,6 @@
 <hr>
 
 <h3 align="center">📊 GitHub Metrics</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gok24code&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
 <br clear="both">
 
 <div align="center">
