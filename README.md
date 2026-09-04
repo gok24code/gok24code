@@ -15,7 +15,7 @@
   🌱 <b>Currently learning:</b> Advanced CMake configurations, FreeRTOS, and Embedded Linux.<br>
   🤝 <b>Looking to collaborate on:</b> Open-source IoT projects, Edge AI applications, and embedded system designs.<br>
   📝 <b>Read my articles:</b> <a href="https://medium.com/@goktugtoyguc">Medium Blog</a><br>
-  📫 <b>Reach me at:</b> goktugtoyguc@gmail.com
+  📫 <b>Reach me at:</b> noxonninen@gmail.com
 </p>
 
 <hr>
