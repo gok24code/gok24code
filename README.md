@@ -65,9 +65,6 @@
 
 <hr>
 
-<h3 align="center">📊 GitHub Metrics</h3>
-<br clear="both">
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/gok24code/gok24code/output/snake.svg" alt="Snake animation" />
 </div>
